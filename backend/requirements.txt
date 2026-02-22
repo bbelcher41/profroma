@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+openai
+pdfminer.six
+pypdf
+pdf2image
+pytesseract
+pillow
+openpyxl
